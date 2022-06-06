@@ -1,1 +1,3 @@
 # no-fast-forward
+
+test
